@@ -1,8 +1,8 @@
-#include <cstdio>
+#include <iostream>
 
 int main(void){
-	int n;
-	scanf("%d", &n);
-	printf("%d", n);
+	std::string s
+	std::getline(std::cin, s);
+	std::cout << s;
 	return 0;
 }
